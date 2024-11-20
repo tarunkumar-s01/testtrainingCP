@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1732112942350,1042,main Request,200,OK,Thread Group 1-1,text,true,,380899,222,1,1,https://www.tcs.com/,734,0,697
+1732112942350,756,main Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,416,109,1,1,https://tcs.com/,734,0,697
+1732112943111,281,main Request-1,200,OK,Thread Group 1-1,text,true,,380483,113,1,1,https://www.tcs.com/,185,0,158
+1732112943413,353,overview Request,200,OK,Thread Group 1-1,text,true,,394430,242,1,1,https://www.tcs.com/what-we-do,23,0,0
+1732112943413,23,overview Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,426,119,1,1,https://tcs.com/what-we-do,23,0,0
+1732112943436,330,overview Request-1,200,OK,Thread Group 1-1,text,true,,394004,123,1,1,https://www.tcs.com/what-we-do,171,0,0
+1732112943767,252,industies Request,200,OK,Thread Group 1-1,text,true,,394430,242,1,1,https://www.tcs.com/what-we-do,24,0,0
+1732112943767,24,industies Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,426,119,1,1,https://tcs.com/what-we-do#industries,24,0,0
+1732112943791,228,industies Request-1,200,OK,Thread Group 1-1,text,true,,394004,123,1,1,https://www.tcs.com/what-we-do,70,0,0
+1732112944020,244,service Request,200,OK,Thread Group 1-1,text,true,,394430,242,1,1,https://www.tcs.com/what-we-do,32,0,0
+1732112944020,32,service Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,426,119,1,1,https://tcs.com/what-we-do#services,32,0,0
+1732112944053,211,service Request-1,200,OK,Thread Group 1-1,text,true,,394004,123,1,1,https://www.tcs.com/what-we-do,76,0,0
+1732112944265,213,about Request,200,OK,Thread Group 1-1,text,true,,383761,242,1,1,https://www.tcs.com/who-we-are,22,0,0
+1732112944265,22,about Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,426,119,1,1,https://tcs.com/who-we-are,22,0,0
+1732112944288,190,about Request-1,200,OK,Thread Group 1-1,text,true,,383335,123,1,1,https://www.tcs.com/who-we-are,73,0,0
+1732112944479,1601,cust Request,200,OK,Thread Group 1-1,text,true,,375547,272,1,1,https://www.tcs.com/insights/customer-stories,23,0,0
+1732112944479,23,cust Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,441,134,1,1,https://tcs.com/insights/customer-stories,23,0,0
+1732112944502,1578,cust Request-1,200,OK,Thread Group 1-1,text,true,,375106,138,1,1,https://www.tcs.com/insights/customer-stories,1518,0,0
+1732112946081,348,global Request,200,OK,Thread Group 1-1,text,true,,335791,268,1,1,https://www.tcs.com/insights/global-studies,31,0,0
+1732112946081,31,global Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,439,132,1,1,https://tcs.com/insights/global-studies,31,0,0
+1732112946112,317,global Request-1,200,OK,Thread Group 1-1,text,true,,335352,136,1,1,https://www.tcs.com/insights/global-studies,153,0,0
+1732112946431,577,india Request,200,OK,Thread Group 1-1,text,true,,362076,238,1,1,https://www.tcs.com/insights,22,0,0
+1732112946431,22,india Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,424,117,1,1,https://tcs.com/insights,22,0,0
+1732112946454,554,india Request-1,200,OK,Thread Group 1-1,text,true,,361652,121,1,1,https://www.tcs.com/insights,107,0,0
+1732112947009,383,alert Request,200,OK,Thread Group 1-1,text,true,,347489,282,1,1,https://www.tcs.com/who-we-are/newsroom/news-alert,23,0,0
+1732112947009,23,alert Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,446,139,1,1,https://tcs.com/who-we-are/newsroom/news-alert,23,0,0
+1732112947032,360,alert Request-1,200,OK,Thread Group 1-1,text,true,,347043,143,1,1,https://www.tcs.com/who-we-are/newsroom/news-alert,319,0,0
+1732112947402,383,finance Request,200,OK,Thread Group 1-1,text,true,,418004,258,1,1,https://www.tcs.com/investor-relations,24,0,0
+1732112947402,24,finance Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,434,127,1,1,https://tcs.com/investor-relations#quarterly,24,0,0
+1732112947427,358,finance Request-1,200,OK,Thread Group 1-1,text,true,,417570,131,1,1,https://www.tcs.com/investor-relations,224,0,0
